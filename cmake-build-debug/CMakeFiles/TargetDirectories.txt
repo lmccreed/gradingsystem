@@ -1,0 +1,3 @@
+/home/administrator/CLionProjects/gradingsystem/cmake-build-debug/CMakeFiles/gradingsystem.dir
+/home/administrator/CLionProjects/gradingsystem/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/administrator/CLionProjects/gradingsystem/cmake-build-debug/CMakeFiles/rebuild_cache.dir
